@@ -1,0 +1,16 @@
+<resources>
+    <atlas>
+        <image file="../data/images/white_pawn.png" name="white_pawn"/>
+        <image file="../data/images/black_pawn.png" name="black_pawn"/>
+        <image file="../data/images/white_knight.png" name="white_knight"/>
+        <image file="../data/images/black_knight.png" name="black_knight"/>
+        <image file="../data/images/white_bishop.png" name="white_bishop"/>
+        <image file="../data/images/black_bishop.png" name="black_bishop"/>
+        <image file="../data/images/white_rook.png" name="white_rook"/>
+        <image file="../data/images/black_rook.png" name="black_rook"/>
+        <image file="../data/images/white_queen.png" name="white_queen"/>
+        <image file="../data/images/black_queen.png" name="black_queen"/>
+        <image file="../data/images/white_king.png" name="white_king"/>
+        <image file="../data/images/black_king.png" name="black_king"/>
+    </atlas>
+</resources>
